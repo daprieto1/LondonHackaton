@@ -1,0 +1,15 @@
+{
+  "name": "londonhackaton",
+  "version": "1.0.0",
+  "description": "OCR for Bancolombia format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "da.prieto1@uniandes.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "azure-cognitiveservices-computervision": "^3.0.0",
+    "ms-rest-azure": "^2.5.7"
+  }
+}
