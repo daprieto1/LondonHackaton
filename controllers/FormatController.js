@@ -1,6 +1,8 @@
 const express = require('express')
 const computerVisionProvider = require('./../providers/ComputerVisionProvider')
 
+const ocrResultProvider = require('./../providers/OcrResultProvider')
+
 let FormatController = () => {
     let router = express.Router()
 
@@ -10,7 +12,10 @@ let FormatController = () => {
             let detectOrientation = req.body.detectOrientation
 
             computerVisionProvider.recognizePrintedText(detectOrientation, url)
-                .then(result => res.send(result))
+                .then(result => {
+                    res.send(ocrResultProvider.getLines(result))
+                    //res.send(result)
+                })
                 .catch(error => res.status(500).send(error))
         })
 
