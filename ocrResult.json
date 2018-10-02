@@ -1,0 +1,558 @@
+{
+    "language": "es",
+    "textAngle": 0,
+    "orientation": "NotDetected",
+    "regions": [
+        {
+            "boundingBox": "60,33,495,946",
+            "lines": [
+                {
+                    "boundingBox": "60,33,242,38",
+                    "words": [
+                        {
+                            "boundingBox": "60,33,94,38",
+                            "text": "Acuse"
+                        },
+                        {
+                            "boundingBox": "164,33,35,38",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "209,33,93,38",
+                            "text": "recibo"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "62,83,472,19",
+                    "words": [
+                        {
+                            "boundingBox": "62,86,52,14",
+                            "text": "Declaro"
+                        },
+                        {
+                            "boundingBox": "120,90,24,12",
+                            "text": "que"
+                        },
+                        {
+                            "boundingBox": "150,86,15,14",
+                            "text": "he"
+                        },
+                        {
+                            "boundingBox": "171,86,53,14",
+                            "text": "recibido"
+                        },
+                        {
+                            "boundingBox": "230,86,16,13",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "252,89,50,10",
+                            "text": "manera"
+                        },
+                        {
+                            "boundingBox": "308,85,36,16",
+                            "text": "clara,"
+                        },
+                        {
+                            "boundingBox": "351,85,52,16",
+                            "text": "precisa,"
+                        },
+                        {
+                            "boundingBox": "409,84,62,16",
+                            "text": "completa"
+                        },
+                        {
+                            "boundingBox": "476,88,8,12",
+                            "text": "y"
+                        },
+                        {
+                            "boundingBox": "489,83,45,14",
+                            "text": "escrita"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "63,104,471,17",
+                    "words": [
+                        {
+                            "boundingBox": "63,106,29,14",
+                            "text": "toda"
+                        },
+                        {
+                            "boundingBox": "104,106,11,14",
+                            "text": "la"
+                        },
+                        {
+                            "boundingBox": "126,106,78,13",
+                            "text": "información"
+                        },
+                        {
+                            "boundingBox": "216,105,77,14",
+                            "text": "relacionada"
+                        },
+                        {
+                            "boundingBox": "304,108,24,10",
+                            "text": "con"
+                        },
+                        {
+                            "boundingBox": "340,105,18,13",
+                            "text": "las"
+                        },
+                        {
+                            "boundingBox": "370,105,64,16",
+                            "text": "gestiones"
+                        },
+                        {
+                            "boundingBox": "445,104,16,13",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "473,104,61,13",
+                            "text": "cobranza"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "63,123,471,19",
+                    "words": [
+                        {
+                            "boundingBox": "63,126,67,16",
+                            "text": "prejudicial"
+                        },
+                        {
+                            "boundingBox": "138,129,23,12",
+                            "text": "que"
+                        },
+                        {
+                            "boundingBox": "169,125,66,14",
+                            "text": "desarrolla"
+                        },
+                        {
+                            "boundingBox": "242,124,86,14",
+                            "text": "Bancolombia"
+                        },
+                        {
+                            "boundingBox": "335,127,30,12",
+                            "text": "para"
+                        },
+                        {
+                            "boundingBox": "372,124,51,13",
+                            "text": "obtener"
+                        },
+                        {
+                            "boundingBox": "430,124,11,12",
+                            "text": "la"
+                        },
+                        {
+                            "boundingBox": "448,123,86,16",
+                            "text": "recuperación"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "64,142,471,17",
+                    "words": [
+                        {
+                            "boundingBox": "64,146,15,13",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "86,149,14,10",
+                            "text": "su"
+                        },
+                        {
+                            "boundingBox": "106,146,52,13",
+                            "text": "cartera."
+                        },
+                        {
+                            "boundingBox": "165,145,16,13",
+                            "text": "Lo"
+                        },
+                        {
+                            "boundingBox": "186,144,52,14",
+                            "text": "anterior"
+                        },
+                        {
+                            "boundingBox": "243,147,16,10",
+                            "text": "en"
+                        },
+                        {
+                            "boundingBox": "265,143,80,14",
+                            "text": "observancia"
+                        },
+                        {
+                            "boundingBox": "351,143,16,13",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "373,143,18,13",
+                            "text": "las"
+                        },
+                        {
+                            "boundingBox": "397,142,40,16",
+                            "text": "reglas"
+                        },
+                        {
+                            "boundingBox": "443,143,16,12",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "465,142,70,15",
+                            "text": "protección"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "64,160,472,20",
+                    "words": [
+                        {
+                            "boundingBox": "64,165,11,14",
+                            "text": "al"
+                        },
+                        {
+                            "boundingBox": "80,164,79,15",
+                            "text": "consumidor"
+                        },
+                        {
+                            "boundingBox": "164,164,66,13",
+                            "text": "financiero"
+                        },
+                        {
+                            "boundingBox": "235,167,7,13",
+                            "text": "y"
+                        },
+                        {
+                            "boundingBox": "247,163,19,13",
+                            "text": "las"
+                        },
+                        {
+                            "boundingBox": "271,163,73,16",
+                            "text": "dispuestas"
+                        },
+                        {
+                            "boundingBox": "349,165,16,11",
+                            "text": "en"
+                        },
+                        {
+                            "boundingBox": "370,162,11,13",
+                            "text": "la"
+                        },
+                        {
+                            "boundingBox": "386,162,50,13",
+                            "text": "circular"
+                        },
+                        {
+                            "boundingBox": "441,161,27,14",
+                            "text": "048"
+                        },
+                        {
+                            "boundingBox": "474,161,16,13",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "496,160,40,14",
+                            "text": "2008."
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "63,194,173,21",
+                    "words": [
+                        {
+                            "boundingBox": "63,195,55,20",
+                            "text": "Fecha"
+                        },
+                        {
+                            "boundingBox": "126,195,22,19",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "156,194,80,19",
+                            "text": "recibido:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "64,273,327,25",
+                    "words": [
+                        {
+                            "boundingBox": "64,277,74,19",
+                            "text": "Nombre"
+                        },
+                        {
+                            "boundingBox": "146,276,87,22",
+                            "text": "completo"
+                        },
+                        {
+                            "boundingBox": "241,275,22,19",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "271,274,49,23",
+                            "text": "quien"
+                        },
+                        {
+                            "boundingBox": "328,273,63,20",
+                            "text": "recibe:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "65,356,235,22",
+                    "words": [
+                        {
+                            "boundingBox": "65,359,107,19",
+                            "text": "Documento"
+                        },
+                        {
+                            "boundingBox": "180,358,22,18",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "210,356,90,20",
+                            "text": "Identidad:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "65,441,85,19",
+                    "words": [
+                        {
+                            "boundingBox": "65,441,85,19",
+                            "text": "Teléfono:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "66,522,64,20",
+                    "words": [
+                        {
+                            "boundingBox": "66,522,64,20",
+                            "text": "Ciudad"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "67,597,359,23",
+                    "words": [
+                        {
+                            "boundingBox": "67,601,24,19",
+                            "text": "He"
+                        },
+                        {
+                            "boundingBox": "99,600,75,19",
+                            "text": "recibido"
+                        },
+                        {
+                            "boundingBox": "182,599,22,19",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "212,597,118,21",
+                            "text": "conformidad"
+                        },
+                        {
+                            "boundingBox": "338,597,21,19",
+                            "text": "mi"
+                        },
+                        {
+                            "boundingBox": "366,597,60,23",
+                            "text": "tarjeta"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "67,620,258,24",
+                    "words": [
+                        {
+                            "boundingBox": "67,624,19,19",
+                            "text": "N."
+                        },
+                        {
+                            "boundingBox": "88,624,8,7",
+                            "text": "0"
+                        },
+                        {
+                            "boundingBox": "104,623,73,21",
+                            "text": "(últimos"
+                        },
+                        {
+                            "boundingBox": "185,623,59,18",
+                            "text": "cuatro"
+                        },
+                        {
+                            "boundingBox": "252,620,73,24",
+                            "text": "dígitos):"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "67,705,211,24",
+                    "words": [
+                        {
+                            "boundingBox": "67,707,52,19",
+                            "text": "Firma"
+                        },
+                        {
+                            "boundingBox": "127,706,22,19",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "157,706,50,23",
+                            "text": "quien"
+                        },
+                        {
+                            "boundingBox": "215,705,63,19",
+                            "text": "recibe:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "68,790,146,19",
+                    "words": [
+                        {
+                            "boundingBox": "68,790,146,19",
+                            "text": "Observaciones:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "70,919,483,19",
+                    "words": [
+                        {
+                            "boundingBox": "70,920,50,15",
+                            "text": "Solicito"
+                        },
+                        {
+                            "boundingBox": "127,924,8,10",
+                            "text": "a"
+                        },
+                        {
+                            "boundingBox": "142,920,87,14",
+                            "text": "Bancolombia"
+                        },
+                        {
+                            "boundingBox": "236,922,25,13",
+                            "text": "que"
+                        },
+                        {
+                            "boundingBox": "268,919,56,16",
+                            "text": "proceda"
+                        },
+                        {
+                            "boundingBox": "331,922,25,11",
+                            "text": "con"
+                        },
+                        {
+                            "boundingBox": "363,919,11,14",
+                            "text": "la"
+                        },
+                        {
+                            "boundingBox": "381,920,69,14",
+                            "text": "activación"
+                        },
+                        {
+                            "boundingBox": "457,920,17,14",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "481,920,16,14",
+                            "text": "mi"
+                        },
+                        {
+                            "boundingBox": "504,921,49,17",
+                            "text": "tarjeta,"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "70,939,485,19",
+                    "words": [
+                        {
+                            "boundingBox": "70,941,11,14",
+                            "text": "si"
+                        },
+                        {
+                            "boundingBox": "91,944,16,14",
+                            "text": "yo"
+                        },
+                        {
+                            "boundingBox": "117,944,17,11",
+                            "text": "no"
+                        },
+                        {
+                            "boundingBox": "144,940,11,14",
+                            "text": "la"
+                        },
+                        {
+                            "boundingBox": "166,940,49,14",
+                            "text": "hubiere"
+                        },
+                        {
+                            "boundingBox": "225,939,57,14",
+                            "text": "activado"
+                        },
+                        {
+                            "boundingBox": "293,939,90,14",
+                            "text": "directamente"
+                        },
+                        {
+                            "boundingBox": "393,940,44,14",
+                            "text": "dentro"
+                        },
+                        {
+                            "boundingBox": "448,940,17,15",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "475,941,21,14",
+                            "text": "los"
+                        },
+                        {
+                            "boundingBox": "506,940,9,16",
+                            "text": "3"
+                        },
+                        {
+                            "boundingBox": "526,942,29,15",
+                            "text": "dias"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "70,959,358,20",
+                    "words": [
+                        {
+                            "boundingBox": "70,961,69,18",
+                            "text": "siguientes"
+                        },
+                        {
+                            "boundingBox": "144,964,8,10",
+                            "text": "a"
+                        },
+                        {
+                            "boundingBox": "157,960,11,14",
+                            "text": "la"
+                        },
+                        {
+                            "boundingBox": "174,959,77,17",
+                            "text": "suscripción"
+                        },
+                        {
+                            "boundingBox": "256,959,20,14",
+                            "text": "del"
+                        },
+                        {
+                            "boundingBox": "281,960,60,15",
+                            "text": "presente"
+                        },
+                        {
+                            "boundingBox": "346,959,82,15",
+                            "text": "documento."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

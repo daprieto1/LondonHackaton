@@ -13,8 +13,8 @@ let FormatController = () => {
 
             computerVisionProvider.recognizePrintedText(detectOrientation, url)
                 .then(result => {
-                    res.send(ocrResultProvider.getLines(result))
-                    //res.send(result)
+                    //result = ocrResultProvider.findDates(result)
+                    res.send(result)
                 })
                 .catch(error => res.status(500).send(error))
         })
