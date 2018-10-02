@@ -13,10 +13,15 @@ let FormatController = () => {
 
             computerVisionProvider.recognizePrintedText(detectOrientation, url)
                 .then(result => {
-                    //result = ocrResultProvider.findDates(result)
-                    res.send(result)
+                    let greates = ocrResultProvider.findGreatestNumber(result)
+                    let smallest = ocrResultProvider.findSmallestNumber(result)
+                    result = ocrResultProvider.findNumbers(result)
+                    res.send(smallest)
                 })
-                .catch(error => res.status(500).send(error))
+                .catch(error => {
+                    console.error(error)
+                    res.status(500).send(error)
+                })
         })
 
     return router
