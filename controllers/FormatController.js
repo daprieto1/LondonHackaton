@@ -16,7 +16,7 @@ let FormatController = () => {
                     let greates = ocrResultProvider.findGreatestNumber(result)
                     let smallest = ocrResultProvider.findSmallestNumber(result)
                     result = ocrResultProvider.findNumbers(result)
-                    res.send(smallest)
+                    res.send([greates, smallest])
                 })
                 .catch(error => {
                     console.error(error)
